@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422349267681",
+    "project_id": "myfirebaseaugust",
+    "storage_bucket": "myfirebaseaugust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422349267681:android:e6fa6626e8e4daa9e88da0",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_storage_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvVYw8MzeOL03oV8J4US9oEdMnMWtxQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
